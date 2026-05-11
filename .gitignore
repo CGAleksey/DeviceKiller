@@ -1,0 +1,15 @@
+# Игнорируем временные и скомпилированные файлы Microchip Studio
+Debug/
+Release/
+*.obj
+*.exe
+*.elf
+*.hex
+*.map
+*.d
+*.o
+*.eep
+
+# Игнорируем файлы пользовательских настроек IDE
+*.cproj
+*.xml
